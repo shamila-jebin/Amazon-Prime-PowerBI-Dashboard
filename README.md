@@ -30,6 +30,3 @@ The dashboard provides insights into titles, ratings, genres, directors, countri
 
 Data Analytics / Business Intelligence
 
-## Dashboard Preview
-
-![Dashboard](Dashboard_Screenshot.png)
